@@ -1,1 +1,1 @@
-# javascript-hinid
+# javascript-hindi
